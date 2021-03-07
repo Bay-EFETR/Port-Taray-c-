@@ -25,5 +25,5 @@ elif(islemno=="2"):
 elif(islemno=="3"):
           hedefip = raw_input("Hedef IP Giriniz: ")
           os.system("nmap -0 "+ hedefip)
-elif:
-          print("Oyle Bir Secenek Bulunmamaktadir.")
+
+print("Oyle Bir Secenek Bulunmamaktadir.")
